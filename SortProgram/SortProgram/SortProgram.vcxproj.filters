@@ -18,7 +18,10 @@
     <ClCompile Include="sort_example_my.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sort_example_class.cpp">
+    <ClCompile Include="Insertion_Sorting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Selection_Sorting.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
